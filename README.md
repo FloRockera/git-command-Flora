@@ -8,6 +8,7 @@
 *  ```git revert``` permet de ne pas supprimer l'historique
 *  ```git remote``` permet de configurer un dépôt distant
 *  ```git push``` envoie ces informations au dépôt distant
+*  ```git fetch``` modification faite dans un local
 
 Comme Perceval le disait :
 > C'est pas faux.  :+1: 
