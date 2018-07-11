@@ -4,6 +4,7 @@
 
 *  ```git init``` permet d'initialiser un projet git
 *  ```git add``` ajoute une modification dans l'index
+*  ```git checkout``` permet de se positionner sur une version précédente
 *  ```git revert``` permet de ne pas supprimer l'historique
 *  ```git remote``` permet de configurer un dépôt distant
 *  ```git push``` envoie ces informations au dépôt distant
@@ -13,3 +14,8 @@ Comme Perceval le disait :
 
 :+1: 
 ![Github Logo](/images/logo.png)
+
+
+Première colonne | Deuxième colonne
+---------------- | ----------------
+content 1 | content 2
