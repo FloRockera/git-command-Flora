@@ -8,4 +8,8 @@
 *  ```git remote``` permet de configurer un dépôt distant
 *  ```git push``` envoie ces informations au dépôt distant
 
+Comme Perceval le disait :
+> C'est pas faux.
+
 :+1: 
+![Github Logo](/images/logo.png)
