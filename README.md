@@ -10,9 +10,8 @@
 *  ```git push``` envoie ces informations au dépôt distant
 
 Comme Perceval le disait :
-> C'est pas faux.
+> C'est pas faux.  :+1: 
 
-:+1: 
 ![Github Logo](/images/logo.png)
 
 
