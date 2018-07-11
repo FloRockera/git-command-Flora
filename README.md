@@ -18,4 +18,5 @@ Comme Perceval le disait :
 
 Première colonne | Deuxième colonne
 ---------------- | ----------------
-content 1 | content 2
+content 1.1 | content 2.1
+content 1.2 | content 2.2
